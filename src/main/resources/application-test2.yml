@@ -1,0 +1,5 @@
+server:
+  port: 7775
+
+processing:
+  delete-delay-seconds: 4
